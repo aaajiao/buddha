@@ -1,0 +1,217 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* BuddhaMachine */ = {
+		activeExec = 0;
+		executables = (
+			297A83960F9D426300F7F9ED /* BuddhaMachine */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* BuddhaMachineViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {966, 4466}}";
+			sepNavSelRange = "{1055, 0}";
+			sepNavVisRange = "{578, 872}";
+		};
+	};
+	294324C50FD9CC0D00371E8E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 29E89E2C0E6588D1004C07C9 /* Entitlements.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/jb/Desktop/bm/Entitlements.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	2964D7990FADDB8A0004A378 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BuddhaMachineViewController.m */;
+		name = "BuddhaMachineViewController.m: 29";
+		rLen = 0;
+		rLoc = 630;
+		rType = 0;
+		vrLen = 1927;
+		vrLoc = 157;
+	};
+	2978C3E60FF297E900C7C92B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/jb/Desktop/iPhone/BuddhaMachine/bm/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	297A83960F9D426300F7F9ED /* BuddhaMachine */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BuddhaMachine;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	297A83AB0F9D427100F7F9ED /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	297A83AC0F9D427100F7F9ED /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	297A83EE0F9D69F100F7F9ED /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 29F49AEA0E78350700D9F95F /* blue-volume-handle.png */;
+	};
+	298402720FA6378600D76B2B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 297A83EC0F9D69CD00F7F9ED /* fm3-logo-2.png */;
+	};
+	298402740FA6378600D76B2B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 299D8FDE0E65B852000CA3B7 /* InfoView.h */;
+		name = "InfoView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 577;
+		vrLoc = 0;
+	};
+	299D8FDE0E65B852000CA3B7 /* InfoView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {738, 613}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 577}";
+		};
+	};
+	299D8FDF0E65B852000CA3B7 /* InfoView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {744, 2604}}";
+			sepNavSelRange = "{263, 0}";
+			sepNavVisRange = "{0, 867}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 297A83960F9D426300F7F9ED /* BuddhaMachine */;
+		activeSDKPreference = iphonesimulator3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BuddhaMachine */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* BuddhaMachine */,
+		);
+		codeSenseManager = 297A83AC0F9D427100F7F9ED /* Code sense */;
+		executables = (
+			297A83960F9D426300F7F9ED /* BuddhaMachine */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					498,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					458,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 298306317;
+			PBXWorkspaceStateSaveDate = 298306317;
+		};
+		perUserProjectItems = {
+			294324C50FD9CC0D00371E8E /* PlistBookmark */ = 294324C50FD9CC0D00371E8E /* PlistBookmark */;
+			2964D7990FADDB8A0004A378 /* PBXTextBookmark */ = 2964D7990FADDB8A0004A378 /* PBXTextBookmark */;
+			2978C3E60FF297E900C7C92B /* PlistBookmark */ = 2978C3E60FF297E900C7C92B /* PlistBookmark */;
+			297A83EE0F9D69F100F7F9ED /* PBXBookmark */ = 297A83EE0F9D69F100F7F9ED /* PBXBookmark */;
+			298402720FA6378600D76B2B /* PBXBookmark */ = 298402720FA6378600D76B2B /* PBXBookmark */;
+			298402740FA6378600D76B2B /* PBXTextBookmark */ = 298402740FA6378600D76B2B /* PBXTextBookmark */;
+			29E50BD60FD9C816007DF2C2 /* PBXTextBookmark */ = 29E50BD60FD9C816007DF2C2 /* PBXTextBookmark */;
+			29F1E63211C7CB290065C669 /* PlistBookmark */ = 29F1E63211C7CB290065C669 /* PlistBookmark */;
+		};
+		sourceControlManager = 297A83AB0F9D427100F7F9ED /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29E50BD60FD9C816007DF2C2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 299D8FDF0E65B852000CA3B7 /* InfoView.m */;
+		name = "InfoView.m: 13";
+		rLen = 0;
+		rLoc = 263;
+		rType = 0;
+		vrLen = 867;
+		vrLoc = 0;
+	};
+	29F1E63211C7CB290065C669 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/jb/Desktop/BuddhaMachine/bm/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}

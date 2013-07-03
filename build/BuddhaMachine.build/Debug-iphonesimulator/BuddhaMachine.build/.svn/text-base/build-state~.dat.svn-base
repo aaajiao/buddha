@@ -1,0 +1,2609 @@
+TBuddhaMachine
+v7
+r0
+t303403542.246224
+cCheck dependencies
+cProcessInfoPlistFile "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/Info.plist" Info.plist
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/blue-face.jpg Images/BlueTheme/blue-face.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/blue-round-button.png Images/BlueTheme/blue-round-button.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/icon.png Images/Common/icon.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/pink-face.jpg Images/PinkTheme/pink-face.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/pink-round-button.png Images/PinkTheme/pink-round-button.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/black-face.jpg Images/BlackTheme/black-face.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/black-round-button.png Images/BlackTheme/black-round-button.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/orange-face.jpg Images/OrangeTheme/orange-face.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/orange-round-button.png Images/OrangeTheme/orange-round-button.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/red-face.jpg Images/RedTheme/red-face.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/red-round-button.png Images/RedTheme/red-round-button.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/white-face.jpg Images/WhiteTheme/white-face.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/white-round-button.png Images/WhiteTheme/white-round-button.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/green-round-button.png Images/GreenTheme/green-round-button.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/green-face.jpg Images/GreenTheme/green-face.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/black-back.jpg Images/BlackTheme/black-back.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/green-back.jpg Images/GreenTheme/green-back.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/orange-back.jpg Images/OrangeTheme/orange-back.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/pink-back.jpg Images/PinkTheme/pink-back.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/red-back.jpg Images/RedTheme/red-back.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/white-back.jpg Images/WhiteTheme/white-back.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/fm3-logo.png Images/Common/fm3-logo.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/Default.png Images/Common/Default.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/blue-back.jpg Images/BlueTheme/blue-back.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/slider-bg.png Images/Common/slider-bg.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/slider-thumb.png Images/Common/slider-thumb.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/black-volume-handle.png Images/BlackTheme/black-volume-handle.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/blue-volume-handle.png Images/BlueTheme/blue-volume-handle.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/green-volume-handle.png Images/GreenTheme/green-volume-handle.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/orange-volume-handle.png Images/OrangeTheme/orange-volume-handle.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/pink-volume-handle.png Images/PinkTheme/pink-volume-handle.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/red-volume-handle.png Images/RedTheme/red-volume-handle.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/white-volume-handle.png Images/WhiteTheme/white-volume-handle.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi01.caf Sounds/v1_hi01.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi02.caf Sounds/v1_hi02.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi03.caf Sounds/v2_hi03.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi04.caf Sounds/v2_hi04.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi03.caf Sounds/v1_hi03.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi04.caf Sounds/v1_hi04.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi01.caf Sounds/v2_hi01.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi02.caf Sounds/v2_hi02.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi05.caf Sounds/v1_hi05.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi06.caf Sounds/v1_hi06.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi07.caf Sounds/v1_hi07.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi08.caf Sounds/v1_hi08.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi09.caf Sounds/v1_hi09.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi05.caf Sounds/v2_hi05.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi06.caf Sounds/v2_hi06.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi07.caf Sounds/v2_hi07.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi08.caf Sounds/v2_hi08.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi09.caf Sounds/v2_hi09.caf
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/lime-back.jpg Images/LimeTheme-2/lime-back.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/lime-face.jpg Images/LimeTheme-2/lime-face.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/lime-round-button.png Images/LimeTheme-2/lime-round-button.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/brown-back.jpg Images/BrownTheme-2/brown-back.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/brown-face.jpg Images/BrownTheme-2/brown-face.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/brown-round-button.png Images/BrownTheme-2/brown-round-button.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/teal-back.jpg Images/TealTheme-2/teal-back.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/teal-face.jpg Images/TealTheme-2/teal-face.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/teal-round-button.png Images/TealTheme-2/teal-round-button.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/purple-back.jpg Images/PurpleTheme-2/purple-back.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/purple-face.jpg Images/PurpleTheme-2/purple-face.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/purple-round-button.png Images/PurpleTheme-2/purple-round-button.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/grey-back.jpg Images/GreyTheme-2/grey-back.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/grey-face.jpg Images/GreyTheme-2/grey-face.jpg
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/grey-round-button.png Images/GreyTheme-2/grey-round-button.png
+cCpResource build/Debug-iphonesimulator/BuddhaMachine.app/fm3-logo-2.png Images/Common/fm3-logo-2.png
+cProcessPCH /var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-gdssobmpwtvlhcdouhaigtmtdqwm/BuddhaMachine_Prefix.pch.gch BuddhaMachine_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/main.o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineAppDelegate.o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineViewController.o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/ThemeView.o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/ThemeView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/InfoView.o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/InfoView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaPlayer.o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaPlayer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine" normal i386
+cGenerateDSYMFile "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app.dSYM" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine"
+cTouch "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A0DADB60000000000000A22
+t1242410422
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004A0E259B000000000000022F
+t1242441115
+s559
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004A0E25B700000000000BE9D0
+t1242441143
+s780752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C635A6C0000000000000110
+t1281579628
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004BD1FFCD0000000000000A22
+t1272053709
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004BD2093D0000000000000268
+t1272056125
+s616
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004BD2095E00000000001515F0
+t1272056158
+s1381872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004BD1D01E000000000000007D
+t1272041502
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004BD1D06900000000001294B0
+t1272041577
+s1217712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C635A870000000000000132
+t1281579655
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004BFF3B620000000000000A23
+t1275018082
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004C04730A0000000000000268
+t1275360010
+s616
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004C0473250000000000155C80
+t1275360037
+s1399936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B73AAD700000000004C9980
+t1265871575
+s5020032
+
+N/Users/jb/Desktop/BuddhaMachine/bm/BuddhaMachine_Prefix.pch
+c0000000049E89F4E00000000000000BB
+t1239981902
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaMachineAppDelegate.h
+c0000000049ED1E7600000000000001A3
+t1240276598
+s419
+i<UIKit/UIKit.h>
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaMachineAppDelegate.m
+c0000000049ED1E760000000000000A73
+t1240276598
+s2675
+i<AudioToolbox/AudioToolbox.h>
+i"BuddhaMachineAppDelegate.h"
+i"BuddhaMachineViewController.h"
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaMachineViewController.h
+c0000000049FA2788000000000000051E
+t1241130888
+s1310
+i"ThemeView.h"
+i"BuddhaPlayer.h"
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaMachineViewController.m
+c000000004A16A51F00000000000029DC
+t1242998047
+s10716
+i<QuartzCore/QuartzCore.h>
+i"BuddhaMachineViewController.h"
+i"InfoView.h"
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaPlayer.h
+c0000000049ED1E7600000000000003C6
+t1240276598
+s966
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaPlayer.m
+c0000000049ED1E760000000000002445
+t1240276598
+s9285
+i"BuddhaPlayer.h"
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Classes/InfoView.h
+c0000000049F5F9A50000000000000241
+t1240856997
+s577
+i<UIKit/UIKit.h>
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Classes/InfoView.m
+c0000000049FDA20300000000000017A2
+t1241358851
+s6050
+i<QuartzCore/QuartzCore.h>
+i"InfoView.h"
+i"BuddhaMachineViewController.h"
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Classes/ThemeView.h
+c0000000049FA1E5F0000000000000362
+t1241128543
+s866
+i<UIKit/UIKit.h>
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Classes/ThemeView.m
+c0000000049FA1E5F0000000000001122
+t1241128543
+s4386
+i<QuartzCore/QuartzCore.h>
+i<MediaPlayer/MediaPlayer.h>
+i"ThemeView.h"
+i"BuddhaMachineViewController.h"
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/BlackTheme/black-back.jpg
+c0000000049E89D38000000000000B561
+t1239981368
+s46433
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/BlackTheme/black-face.jpg
+c0000000049E89D38000000000001353A
+t1239981368
+s79162
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/BlackTheme/black-round-button.png
+c0000000049E89D380000000000001551
+t1239981368
+s5457
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/BlackTheme/black-volume-handle.png
+c0000000049E89D380000000000000D2D
+t1239981368
+s3373
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/BlueTheme/blue-back.jpg
+c0000000049E89D5D000000000000E24B
+t1239981405
+s57931
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/BlueTheme/blue-face.jpg
+c0000000049E89D5D000000000001CCD2
+t1239981405
+s117970
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/BlueTheme/blue-round-button.png
+c0000000049E89D5D0000000000001647
+t1239981405
+s5703
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/BlueTheme/blue-volume-handle.png
+c0000000049E89D5D0000000000000D58
+t1239981405
+s3416
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/BrownTheme-2/brown-back.jpg
+c0000000049FDA1370000000000009348
+t1241358647
+s37704
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/BrownTheme-2/brown-face.jpg
+c0000000049FDA0C00000000000011846
+t1241358528
+s71750
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/BrownTheme-2/brown-round-button.png
+c0000000049FDA0D500000000000016B9
+t1241358549
+s5817
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/Common/Default.png
+c0000000049E89D4F0000000000000EED
+t1239981391
+s3821
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/Common/fm3-logo-2.png
+c0000000049FDA3890000000000000827
+t1241359241
+s2087
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/Common/fm3-logo.png
+c0000000049E89D4F0000000000000E84
+t1239981391
+s3716
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/Common/icon.png
+c0000000049E89D4F00000000000018B6
+t1239981391
+s6326
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/Common/slider-bg.png
+c0000000049E89D4F0000000000000B23
+t1239981391
+s2851
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/Common/slider-thumb.png
+c0000000049E89D4F0000000000000C26
+t1239981391
+s3110
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/GreenTheme/green-back.jpg
+c0000000049E89D3F000000000000F082
+t1239981375
+s61570
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/GreenTheme/green-face.jpg
+c0000000049E89D3F0000000000020DFB
+t1239981375
+s134651
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/GreenTheme/green-round-button.png
+c0000000049E89D3F0000000000001631
+t1239981375
+s5681
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/GreenTheme/green-volume-handle.png
+c0000000049E89D3F0000000000000D58
+t1239981375
+s3416
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/GreyTheme-2/grey-back.jpg
+c0000000049ED0D00000000000000876B
+t1240272128
+s34667
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/GreyTheme-2/grey-face.jpg
+c0000000049ED0E7C0000000000010507
+t1240272508
+s66823
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/GreyTheme-2/grey-round-button.png
+c0000000049ED0E64000000000000171C
+t1240272484
+s5916
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/LimeTheme-2/lime-back.jpg
+c0000000049ED0CCF000000000000AB5C
+t1240272079
+s43868
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/LimeTheme-2/lime-face.jpg
+c0000000049ED0E150000000000018802
+t1240272405
+s100354
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/LimeTheme-2/lime-round-button.png
+c0000000049ED0DF50000000000001773
+t1240272373
+s6003
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/OrangeTheme/orange-back.jpg
+c0000000049E89D740000000000016961
+t1239981428
+s92513
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/OrangeTheme/orange-face.jpg
+c0000000049E89D740000000000025822
+t1239981428
+s153634
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/OrangeTheme/orange-round-button.png
+c0000000049E89D740000000000001677
+t1239981428
+s5751
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/OrangeTheme/orange-volume-handle.png
+c0000000049E89D740000000000000D67
+t1239981428
+s3431
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/PinkTheme/pink-back.jpg
+c0000000049E89D4F000000000000DB61
+t1239981391
+s56161
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/PinkTheme/pink-face.jpg
+c0000000049E89D4F000000000001BB93
+t1239981391
+s113555
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/PinkTheme/pink-round-button.png
+c0000000049E89D4F000000000000164E
+t1239981391
+s5710
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/PinkTheme/pink-volume-handle.png
+c0000000049E89D4F0000000000000D63
+t1239981391
+s3427
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/PurpleTheme-2/purple-back.jpg
+c0000000049FD9FC400000000000089E2
+t1241358276
+s35298
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/PurpleTheme-2/purple-face.jpg
+c0000000049FD9EB30000000000010256
+t1241358003
+s66134
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/PurpleTheme-2/purple-round-button.png
+c0000000049FD9EDC00000000000016C7
+t1241358044
+s5831
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/RedTheme/red-back.jpg
+c0000000049E89D6900000000000160DB
+t1239981417
+s90331
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/RedTheme/red-face.jpg
+c0000000049E89D690000000000024C23
+t1239981417
+s150563
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/RedTheme/red-round-button.png
+c0000000049E89D69000000000000163E
+t1239981417
+s5694
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/RedTheme/red-volume-handle.png
+c0000000049E89D690000000000000D65
+t1239981417
+s3429
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/TealTheme-2/teal-back.jpg
+c0000000049ED0CB1000000000000A80C
+t1240272049
+s43020
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/TealTheme-2/teal-face.jpg
+c0000000049ED0D9C000000000001493C
+t1240272284
+s84284
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/TealTheme-2/teal-round-button.png
+c0000000049ED0D66000000000000174C
+t1240272230
+s5964
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/WhiteTheme/white-back.jpg
+c0000000049E89D44000000000000A709
+t1239981380
+s42761
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/WhiteTheme/white-face.jpg
+c0000000049E89D440000000000016B0C
+t1239981380
+s92940
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/WhiteTheme/white-round-button.png
+c0000000049E89D440000000000001580
+t1239981380
+s5504
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Images/WhiteTheme/white-volume-handle.png
+c0000000049E89D440000000000000CF8
+t1239981380
+s3320
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v1_hi01.caf
+c0000000049FA1E5D000000000004C5A7
+t1241128541
+s312743
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v1_hi02.caf
+c0000000049FA1E5D00000000000844EA
+t1241128541
+s541930
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v1_hi03.caf
+c0000000049FA1E5D0000000000045F18
+t1241128541
+s286488
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v1_hi04.caf
+c0000000049FA1E5D0000000000015E17
+t1241128541
+s89623
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v1_hi05.caf
+c0000000049FA1E5D000000000007E53A
+t1241128541
+s517434
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v1_hi06.caf
+c0000000049FA1E5D0000000000029865
+t1241128541
+s170085
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v1_hi07.caf
+c0000000049FA1E5D000000000007AD70
+t1241128541
+s503152
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v1_hi08.caf
+c000000004A23BDAE00000000000A2EC0
+t1243856302
+s667328
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v1_hi09.caf
+c0000000049FA1E5D000000000007BDB9
+t1241128541
+s507321
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v2_hi01.caf
+c0000000049FA1E5D000000000017B782
+t1241128541
+s1554306
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v2_hi02.caf
+c0000000049FA1E5D0000000000036048
+t1241128541
+s221256
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v2_hi03.caf
+c0000000049FA1E5D00000000000A16DC
+t1241128541
+s661212
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v2_hi04.caf
+c0000000049FA1E5D000000000007BC3E
+t1241128541
+s506942
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v2_hi05.caf
+c0000000049FA1E5D000000000007D2B1
+t1241128541
+s512689
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v2_hi06.caf
+c0000000049FA1E5D000000000007D2C2
+t1241128541
+s512706
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v2_hi07.caf
+c000000004A23BDAE000000000013A579
+t1243856302
+s1287545
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v2_hi08.caf
+c000000004A23BDAF0000000000152510
+t1243856303
+s1385744
+
+N/Users/jb/Desktop/BuddhaMachine/bm/Sounds/v2_hi09.caf
+c0000000049FA1E5D000000000007BDC6
+t1241128541
+s507334
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachine.LinkFileList
+c000000004C1793920000000000000348
+t1276613522
+s840
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineAppDelegate.o
+t1276613522
+s43136
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineViewController.o
+t1276613522
+s64612
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaPlayer.o
+t1276613522
+s24604
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/InfoView.o
+t1276613522
+s50516
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/ThemeView.o
+t1276613522
+s43808
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/main.o
+t1276613522
+s6120
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app
+t1276613522
+s2448
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app.dSYM
+t1276613522
+s102
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine
+t1276613522
+s56592
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/Default.png
+t1245863142
+s3821
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/Info.plist
+t1245863142
+s612
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/PkgInfo
+t1245863142
+s8
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/black-back.jpg
+t1245863142
+s46433
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/black-face.jpg
+t1245863142
+s79162
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/black-round-button.png
+t1245863142
+s5457
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/black-volume-handle.png
+t1245863142
+s3373
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/blue-back.jpg
+t1245863142
+s57931
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/blue-face.jpg
+t1245863142
+s117970
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/blue-round-button.png
+t1245863142
+s5703
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/blue-volume-handle.png
+t1245863142
+s3416
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/brown-back.jpg
+t1245863143
+s37704
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/brown-face.jpg
+t1245863143
+s71750
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/brown-round-button.png
+t1245863143
+s5817
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/fm3-logo-2.png
+t1245863144
+s2087
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/fm3-logo.png
+t1245863142
+s3716
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/green-back.jpg
+t1245863142
+s61570
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/green-face.jpg
+t1245863142
+s134651
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/green-round-button.png
+t1245863142
+s5681
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/green-volume-handle.png
+t1245863142
+s3416
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/grey-back.jpg
+t1245863143
+s34667
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/grey-face.jpg
+t1245863143
+s66823
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/grey-round-button.png
+t1245863144
+s5916
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/icon.png
+t1245863142
+s6326
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/lime-back.jpg
+t1245863143
+s43868
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/lime-face.jpg
+t1245863143
+s100354
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/lime-round-button.png
+t1245863143
+s6003
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/orange-back.jpg
+t1245863142
+s92513
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/orange-face.jpg
+t1245863142
+s153634
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/orange-round-button.png
+t1245863142
+s5751
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/orange-volume-handle.png
+t1245863142
+s3431
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/pink-back.jpg
+t1245863142
+s56161
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/pink-face.jpg
+t1245863142
+s113555
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/pink-round-button.png
+t1245863142
+s5710
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/pink-volume-handle.png
+t1245863142
+s3427
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/purple-back.jpg
+t1245863143
+s35298
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/purple-face.jpg
+t1245863144
+s66134
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/purple-round-button.png
+t1245863143
+s5831
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/red-back.jpg
+t1245863142
+s90331
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/red-face.jpg
+t1245863142
+s150563
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/red-round-button.png
+t1245863142
+s5694
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/red-volume-handle.png
+t1245863142
+s3429
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/slider-bg.png
+t1245863142
+s2851
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/slider-thumb.png
+t1245863142
+s3110
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/teal-back.jpg
+t1245863143
+s43020
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/teal-face.jpg
+t1245863143
+s84284
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/teal-round-button.png
+t1245863143
+s5964
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi01.caf
+t1245863142
+s312743
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi02.caf
+t1245863142
+s541930
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi03.caf
+t1245863142
+s286488
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi04.caf
+t1245863142
+s89623
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi05.caf
+t1245863142
+s517434
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi06.caf
+t1245863142
+s170085
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi07.caf
+t1245863142
+s503152
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi08.caf
+t1245863143
+s667328
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi09.caf
+t1245863143
+s507321
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi01.caf
+t1245863142
+s1554306
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi02.caf
+t1245863142
+s221256
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi03.caf
+t1245863142
+s661212
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi04.caf
+t1245863142
+s506942
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi05.caf
+t1245863142
+s512689
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi06.caf
+t1245863142
+s512706
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi07.caf
+t1245863143
+s1287545
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi08.caf
+t1245863144
+s1385744
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi09.caf
+t1245863144
+s507334
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/white-back.jpg
+t1245863142
+s42761
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/white-face.jpg
+t1245863142
+s92940
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/white-round-button.png
+t1245863142
+s5504
+
+N/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/white-volume-handle.png
+t1245863142
+s3320
+
+N/Users/jb/Desktop/BuddhaMachine/bm/main.m
+c0000000049E89F4E0000000000000182
+t1239981902
+s386
+i<UIKit/UIKit.h>
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/BuddhaMachine_Prefix.pch
+c0000000049E89F4E00000000000000BB
+t1239981902
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineAppDelegate.h
+c0000000049ED1E7600000000000001A3
+t1240276598
+s419
+i<UIKit/UIKit.h>
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineAppDelegate.m
+c000000004C644B3E0000000000001020
+t1281641278
+s4128
+i<AudioToolbox/AudioToolbox.h>
+i"BuddhaMachineAppDelegate.h"
+i"BuddhaMachineViewController.h"
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineViewController.h
+c0000000049FA2788000000000000051E
+t1241130888
+s1310
+i"ThemeView.h"
+i"BuddhaPlayer.h"
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineViewController.m
+c000000004A16A51F00000000000029DC
+t1242998047
+s10716
+i<QuartzCore/QuartzCore.h>
+i"BuddhaMachineViewController.h"
+i"InfoView.h"
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaPlayer.h
+c0000000049ED1E7600000000000003C6
+t1240276598
+s966
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaPlayer.m
+c0000000049ED1E760000000000002445
+t1240276598
+s9285
+i"BuddhaPlayer.h"
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/InfoView.h
+c0000000049F5F9A50000000000000241
+t1240856997
+s577
+i<UIKit/UIKit.h>
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/InfoView.m
+c0000000049FDA20300000000000017A2
+t1241358851
+s6050
+i<QuartzCore/QuartzCore.h>
+i"InfoView.h"
+i"BuddhaMachineViewController.h"
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/ThemeView.h
+c0000000049FA1E5F0000000000000362
+t1241128543
+s866
+i<UIKit/UIKit.h>
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/ThemeView.m
+c0000000049FA1E5F0000000000001122
+t1241128543
+s4386
+i<QuartzCore/QuartzCore.h>
+i<MediaPlayer/MediaPlayer.h>
+i"ThemeView.h"
+i"BuddhaMachineViewController.h"
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-back.jpg
+c0000000049E89D38000000000000B561
+t1239981368
+s46433
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-face.jpg
+c0000000049E89D38000000000001353A
+t1239981368
+s79162
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-round-button.png
+c0000000049E89D380000000000001551
+t1239981368
+s5457
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-volume-handle.png
+c0000000049E89D380000000000000D2D
+t1239981368
+s3373
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-back.jpg
+c0000000049E89D5D000000000000E24B
+t1239981405
+s57931
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-face.jpg
+c0000000049E89D5D000000000001CCD2
+t1239981405
+s117970
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-round-button.png
+c0000000049E89D5D0000000000001647
+t1239981405
+s5703
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-volume-handle.png
+c0000000049E89D5D0000000000000D58
+t1239981405
+s3416
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BrownTheme-2/brown-back.jpg
+c0000000049FDA1370000000000009348
+t1241358647
+s37704
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BrownTheme-2/brown-face.jpg
+c0000000049FDA0C00000000000011846
+t1241358528
+s71750
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BrownTheme-2/brown-round-button.png
+c0000000049FDA0D500000000000016B9
+t1241358549
+s5817
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/Default.png
+c0000000049E89D4F0000000000000EED
+t1239981391
+s3821
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/fm3-logo-2.png
+c0000000049FDA3890000000000000827
+t1241359241
+s2087
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/fm3-logo.png
+c0000000049E89D4F0000000000000E84
+t1239981391
+s3716
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/icon.png
+c0000000049E89D4F00000000000018B6
+t1239981391
+s6326
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/slider-bg.png
+c0000000049E89D4F0000000000000B23
+t1239981391
+s2851
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/slider-thumb.png
+c0000000049E89D4F0000000000000C26
+t1239981391
+s3110
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-back.jpg
+c0000000049E89D3F000000000000F082
+t1239981375
+s61570
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-face.jpg
+c0000000049E89D3F0000000000020DFB
+t1239981375
+s134651
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-round-button.png
+c0000000049E89D3F0000000000001631
+t1239981375
+s5681
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-volume-handle.png
+c0000000049E89D3F0000000000000D58
+t1239981375
+s3416
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreyTheme-2/grey-back.jpg
+c0000000049ED0D00000000000000876B
+t1240272128
+s34667
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreyTheme-2/grey-face.jpg
+c0000000049ED0E7C0000000000010507
+t1240272508
+s66823
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreyTheme-2/grey-round-button.png
+c0000000049ED0E64000000000000171C
+t1240272484
+s5916
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/LimeTheme-2/lime-back.jpg
+c0000000049ED0CCF000000000000AB5C
+t1240272079
+s43868
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/LimeTheme-2/lime-face.jpg
+c0000000049ED0E150000000000018802
+t1240272405
+s100354
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/LimeTheme-2/lime-round-button.png
+c0000000049ED0DF50000000000001773
+t1240272373
+s6003
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-back.jpg
+c0000000049E89D740000000000016961
+t1239981428
+s92513
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-face.jpg
+c0000000049E89D740000000000025822
+t1239981428
+s153634
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-round-button.png
+c0000000049E89D740000000000001677
+t1239981428
+s5751
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-volume-handle.png
+c0000000049E89D740000000000000D67
+t1239981428
+s3431
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-back.jpg
+c0000000049E89D4F000000000000DB61
+t1239981391
+s56161
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-face.jpg
+c0000000049E89D4F000000000001BB93
+t1239981391
+s113555
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-round-button.png
+c0000000049E89D4F000000000000164E
+t1239981391
+s5710
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-volume-handle.png
+c0000000049E89D4F0000000000000D63
+t1239981391
+s3427
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PurpleTheme-2/purple-back.jpg
+c0000000049FD9FC400000000000089E2
+t1241358276
+s35298
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PurpleTheme-2/purple-face.jpg
+c0000000049FD9EB30000000000010256
+t1241358003
+s66134
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PurpleTheme-2/purple-round-button.png
+c0000000049FD9EDC00000000000016C7
+t1241358044
+s5831
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-back.jpg
+c0000000049E89D6900000000000160DB
+t1239981417
+s90331
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-face.jpg
+c0000000049E89D690000000000024C23
+t1239981417
+s150563
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-round-button.png
+c0000000049E89D69000000000000163E
+t1239981417
+s5694
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-volume-handle.png
+c0000000049E89D690000000000000D65
+t1239981417
+s3429
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/TealTheme-2/teal-back.jpg
+c0000000049ED0CB1000000000000A80C
+t1240272049
+s43020
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/TealTheme-2/teal-face.jpg
+c0000000049ED0D9C000000000001493C
+t1240272284
+s84284
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/TealTheme-2/teal-round-button.png
+c0000000049ED0D66000000000000174C
+t1240272230
+s5964
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-back.jpg
+c0000000049E89D44000000000000A709
+t1239981380
+s42761
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-face.jpg
+c0000000049E89D440000000000016B0C
+t1239981380
+s92940
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-round-button.png
+c0000000049E89D440000000000001580
+t1239981380
+s5504
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-volume-handle.png
+c0000000049E89D440000000000000CF8
+t1239981380
+s3320
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi01.caf
+c0000000049FA1E5D000000000004C5A7
+t1241128541
+s312743
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi02.caf
+c0000000049FA1E5D00000000000844EA
+t1241128541
+s541930
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi03.caf
+c0000000049FA1E5D0000000000045F18
+t1241128541
+s286488
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi04.caf
+c0000000049FA1E5D0000000000015E17
+t1241128541
+s89623
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi05.caf
+c0000000049FA1E5D000000000007E53A
+t1241128541
+s517434
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi06.caf
+c0000000049FA1E5D0000000000029865
+t1241128541
+s170085
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi07.caf
+c0000000049FA1E5D000000000007AD70
+t1241128541
+s503152
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi08.caf
+c000000004A23BDAE00000000000A2EC0
+t1243856302
+s667328
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi09.caf
+c0000000049FA1E5D000000000007BDB9
+t1241128541
+s507321
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi01.caf
+c0000000049FA1E5D000000000017B782
+t1241128541
+s1554306
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi02.caf
+c0000000049FA1E5D0000000000036048
+t1241128541
+s221256
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi03.caf
+c0000000049FA1E5D00000000000A16DC
+t1241128541
+s661212
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi04.caf
+c0000000049FA1E5D000000000007BC3E
+t1241128541
+s506942
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi05.caf
+c0000000049FA1E5D000000000007D2B1
+t1241128541
+s512689
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi06.caf
+c0000000049FA1E5D000000000007D2C2
+t1241128541
+s512706
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi07.caf
+c000000004A23BDAE000000000013A579
+t1243856302
+s1287545
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi08.caf
+c000000004A23BDAF0000000000152510
+t1243856303
+s1385744
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi09.caf
+c0000000049FA1E5D000000000007BDC6
+t1241128541
+s507334
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachine.LinkFileList
+c000000004C655A8F0000000000000402
+t1281710735
+s1026
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineAppDelegate.o
+t1281710741
+s54200
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineViewController.o
+t1281710741
+s77536
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaPlayer.o
+t1281710742
+s28824
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/InfoView.o
+t1281710741
+s58664
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/ThemeView.o
+t1281710741
+s51124
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/main.o
+t1281710741
+s6544
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app
+t1281710742
+s2448
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app.dSYM
+t1281710742
+s102
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine
+t1281710742
+s66248
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/Default.png
+t1281710735
+s3821
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/Info.plist
+t1281710735
+s691
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/PkgInfo
+t1281710735
+s8
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/black-back.jpg
+t1281710735
+s46433
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/black-face.jpg
+t1281710735
+s79162
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/black-round-button.png
+t1281710735
+s5457
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/black-volume-handle.png
+t1281710735
+s3373
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/blue-back.jpg
+t1281710735
+s57931
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/blue-face.jpg
+t1281710735
+s117970
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/blue-round-button.png
+t1281710735
+s5703
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/blue-volume-handle.png
+t1281710735
+s3416
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/brown-back.jpg
+t1281710737
+s37704
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/brown-face.jpg
+t1281710737
+s71750
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/brown-round-button.png
+t1281710737
+s5817
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/fm3-logo-2.png
+t1281710737
+s2087
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/fm3-logo.png
+t1281710735
+s3716
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/green-back.jpg
+t1281710735
+s61570
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/green-face.jpg
+t1281710735
+s134651
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/green-round-button.png
+t1281710735
+s5681
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/green-volume-handle.png
+t1281710735
+s3416
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/grey-back.jpg
+t1281710737
+s34667
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/grey-face.jpg
+t1281710737
+s66823
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/grey-round-button.png
+t1281710737
+s5916
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/icon.png
+t1281710735
+s6326
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/lime-back.jpg
+t1281710736
+s43868
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/lime-face.jpg
+t1281710737
+s100354
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/lime-round-button.png
+t1281710737
+s6003
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/orange-back.jpg
+t1281710735
+s92513
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/orange-face.jpg
+t1281710735
+s153634
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/orange-round-button.png
+t1281710735
+s5751
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/orange-volume-handle.png
+t1281710735
+s3431
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/pink-back.jpg
+t1281710735
+s56161
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/pink-face.jpg
+t1281710735
+s113555
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/pink-round-button.png
+t1281710735
+s5710
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/pink-volume-handle.png
+t1281710735
+s3427
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/purple-back.jpg
+t1281710737
+s35298
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/purple-face.jpg
+t1281710737
+s66134
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/purple-round-button.png
+t1281710737
+s5831
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/red-back.jpg
+t1281710735
+s90331
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/red-face.jpg
+t1281710735
+s150563
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/red-round-button.png
+t1281710735
+s5694
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/red-volume-handle.png
+t1281710735
+s3429
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/slider-bg.png
+t1281710735
+s2851
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/slider-thumb.png
+t1281710735
+s3110
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/teal-back.jpg
+t1281710737
+s43020
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/teal-face.jpg
+t1281710737
+s84284
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/teal-round-button.png
+t1281710737
+s5964
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi01.caf
+t1281710735
+s312743
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi02.caf
+t1281710735
+s541930
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi03.caf
+t1281710735
+s286488
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi04.caf
+t1281710735
+s89623
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi05.caf
+t1281710735
+s517434
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi06.caf
+t1281710735
+s170085
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi07.caf
+t1281710736
+s503152
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi08.caf
+t1281710736
+s667328
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi09.caf
+t1281710736
+s507321
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi01.caf
+t1281710738
+s1554306
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi02.caf
+t1281710735
+s221256
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi03.caf
+t1281710736
+s661212
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi04.caf
+t1281710736
+s506942
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi05.caf
+t1281710736
+s512689
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi06.caf
+t1281710736
+s512706
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi07.caf
+t1281710738
+s1287545
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi08.caf
+t1281710737
+s1385744
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi09.caf
+t1281710737
+s507334
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/white-back.jpg
+t1281710735
+s42761
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/white-face.jpg
+t1281710735
+s92940
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/white-round-button.png
+t1281710735
+s5504
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/white-volume-handle.png
+t1281710735
+s3320
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/main.m
+c0000000049E89F4E0000000000000182
+t1239981902
+s386
+i<UIKit/UIKit.h>
+
+N/var/folders/hI/hIyEKCUCE00DbayE7Mlr3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-eztoysxkkmptyzaqhoxljljftdyy/BuddhaMachine_Prefix.pch.gch
+t1276613522
+s12952976
+
+N/var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-gdssobmpwtvlhcdouhaigtmtdqwm/BuddhaMachine_Prefix.pch.gch
+t1281710741
+s10212912
+
+N/var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-hhzwqzvrwgudfyejpvbdosimdkdr/BuddhaMachine_Prefix.pch.gch
+t1281562694
+s9273920
+
+NInfo.plist
+c000000004C6559F900000000000003CF
+t1281710585
+s975
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303403535#303403535#0(0"0(0#1#0"2541215680#0"0#
+
+CCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineAppDelegate.o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303403541.400149
+e303403541.566526
+r1
+xCompileC
+xbuild/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineAppDelegate.o
+x/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineAppDelegate.m303403541#303403541#0(0"0(0#0#100"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineAppDelegate.m2541215680#2388"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap" -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap" "-F/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/include" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources" -include /var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-gdssobmpwtvlhcdouhaigtmtdqwm/BuddhaMachine_Prefix.pch -c "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineAppDelegate.m" -o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineAppDelegate.o"0#
+
+CCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineAppDelegate.o /Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaMachineAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298306322.526374
+e298306322.598076
+r1
+xCompileC
+xbuild/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineAppDelegate.o
+x/Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaMachineAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaMachineAppDelegate.m298306322#298306322#0(0"0(0#0#69"/Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaMachineAppDelegate.m4300911832#1981"    cd /Users/jb/Desktop/BuddhaMachine/bm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap -iquote /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap -F/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator -I/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/include -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386 -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources -include /var/folders/hI/hIyEKCUCE00DbayE7Mlr3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-eztoysxkkmptyzaqhoxljljftdyy/BuddhaMachine_Prefix.pch -c /Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaMachineAppDelegate.m -o /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineAppDelegate.o0#
+
+CCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineViewController.o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303403541.475856
+e303403541.834407
+r1
+xCompileC
+xbuild/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineViewController.o
+x/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineViewController.m303403541#303403541#0(0"0(0#0#103"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineViewController.m2541215680#2394"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap" -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap" "-F/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/include" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources" -include /var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-gdssobmpwtvlhcdouhaigtmtdqwm/BuddhaMachine_Prefix.pch -c "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaMachineViewController.m" -o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineViewController.o"0#
+
+CCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineViewController.o /Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaMachineViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298306322.527043
+e298306322.643670
+r1
+xCompileC
+xbuild/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineViewController.o
+x/Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaMachineViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaMachineViewController.m298306322#298306322#0(0"0(0#0#72"/Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaMachineViewController.m4300911832#1987"    cd /Users/jb/Desktop/BuddhaMachine/bm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap -iquote /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap -F/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator -I/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/include -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386 -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources -include /var/folders/hI/hIyEKCUCE00DbayE7Mlr3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-eztoysxkkmptyzaqhoxljljftdyy/BuddhaMachine_Prefix.pch -c /Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaMachineViewController.m -o /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachineViewController.o0#
+
+CCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaPlayer.o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaPlayer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303403541.834545
+e303403542.030964
+r1
+xCompileC
+xbuild/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaPlayer.o
+x/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaPlayer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaPlayer.m303403541#303403542#0(0"0(0#0#88"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaPlayer.m2541215680#2364"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap" -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap" "-F/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/include" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources" -include /var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-gdssobmpwtvlhcdouhaigtmtdqwm/BuddhaMachine_Prefix.pch -c "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/BuddhaPlayer.m" -o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaPlayer.o"0#
+
+CCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaPlayer.o /Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaPlayer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298306322.529054
+e298306322.617102
+r1
+xCompileC
+xbuild/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaPlayer.o
+x/Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaPlayer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaPlayer.m298306322#298306322#0(0"0(0#0#57"/Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaPlayer.m4300911832#1957"    cd /Users/jb/Desktop/BuddhaMachine/bm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap -iquote /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap -F/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator -I/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/include -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386 -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources -include /var/folders/hI/hIyEKCUCE00DbayE7Mlr3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-eztoysxkkmptyzaqhoxljljftdyy/BuddhaMachine_Prefix.pch -c /Users/jb/Desktop/BuddhaMachine/bm/Classes/BuddhaPlayer.m -o /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaPlayer.o0#
+
+CCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/InfoView.o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/InfoView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303403541.750701
+e303403541.956360
+r1
+xCompileC
+xbuild/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/InfoView.o
+x/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/InfoView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/InfoView.m303403541#303403541#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/InfoView.m2541215680#2356"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap" -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap" "-F/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/include" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources" -include /var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-gdssobmpwtvlhcdouhaigtmtdqwm/BuddhaMachine_Prefix.pch -c "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/InfoView.m" -o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/InfoView.o"0#
+
+CCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/InfoView.o /Users/jb/Desktop/BuddhaMachine/bm/Classes/InfoView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298306322.528366
+e298306322.630130
+r1
+xCompileC
+xbuild/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/InfoView.o
+x/Users/jb/Desktop/BuddhaMachine/bm/Classes/InfoView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/jb/Desktop/BuddhaMachine/bm/Classes/InfoView.m298306322#298306322#0(0"0(0#0#53"/Users/jb/Desktop/BuddhaMachine/bm/Classes/InfoView.m4300911832#1949"    cd /Users/jb/Desktop/BuddhaMachine/bm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap -iquote /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap -F/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator -I/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/include -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386 -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources -include /var/folders/hI/hIyEKCUCE00DbayE7Mlr3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-eztoysxkkmptyzaqhoxljljftdyy/BuddhaMachine_Prefix.pch -c /Users/jb/Desktop/BuddhaMachine/bm/Classes/InfoView.m -o /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/InfoView.o0#
+
+CCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/ThemeView.o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/ThemeView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303403541.566673
+e303403541.750564
+r1
+xCompileC
+xbuild/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/ThemeView.o
+x/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/ThemeView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/ThemeView.m303403541#303403541#0(0"0(0#0#85"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/ThemeView.m2541215680#2358"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap" -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap" "-F/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/include" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources" -include /var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-gdssobmpwtvlhcdouhaigtmtdqwm/BuddhaMachine_Prefix.pch -c "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Classes/ThemeView.m" -o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/ThemeView.o"0#
+
+CCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/ThemeView.o /Users/jb/Desktop/BuddhaMachine/bm/Classes/ThemeView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298306322.527703
+e298306322.621616
+r1
+xCompileC
+xbuild/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/ThemeView.o
+x/Users/jb/Desktop/BuddhaMachine/bm/Classes/ThemeView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/jb/Desktop/BuddhaMachine/bm/Classes/ThemeView.m298306322#298306322#0(0"0(0#0#54"/Users/jb/Desktop/BuddhaMachine/bm/Classes/ThemeView.m4300911832#1951"    cd /Users/jb/Desktop/BuddhaMachine/bm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap -iquote /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap -F/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator -I/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/include -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386 -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources -include /var/folders/hI/hIyEKCUCE00DbayE7Mlr3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-eztoysxkkmptyzaqhoxljljftdyy/BuddhaMachine_Prefix.pch -c /Users/jb/Desktop/BuddhaMachine/bm/Classes/ThemeView.m -o /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/ThemeView.o0#
+
+CCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/main.o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303403541.354391
+e303403541.475709
+r1
+xCompileC
+xbuild/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/main.o
+x/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/main.m303403541#303403541#0(0"0(0#0#72"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/main.m2541215680#2340"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap" -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap" "-F/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/include" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources" -include /var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-gdssobmpwtvlhcdouhaigtmtdqwm/BuddhaMachine_Prefix.pch -c "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/main.m" -o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/main.o /Users/jb/Desktop/BuddhaMachine/bm/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298306322.525649
+e298306322.566610
+r1
+xCompileC
+xbuild/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/main.o
+x/Users/jb/Desktop/BuddhaMachine/bm/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/jb/Desktop/BuddhaMachine/bm/main.m298306322#298306322#0(0"0(0#0#41"/Users/jb/Desktop/BuddhaMachine/bm/main.m4300911832#1933"    cd /Users/jb/Desktop/BuddhaMachine/bm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap -iquote /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap -F/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator -I/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/include -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386 -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources -include /var/folders/hI/hIyEKCUCE00DbayE7Mlr3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-eztoysxkkmptyzaqhoxljljftdyy/BuddhaMachine_Prefix.pch -c /Users/jb/Desktop/BuddhaMachine/bm/main.m -o /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/Default.png Images/Common/Default.png
+s303403535.373786
+e303403535.389590
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/Default.png
+xImages/Common/Default.png
+lSLF07#2@30"Copy Images/Common/Default.png303403535#303403535#0(0"0(0#0#91"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/Default.png2541215680#562"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/Default.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/black-back.jpg Images/BlackTheme/black-back.jpg
+s303403535.331958
+e303403535.378476
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/black-back.jpg
+xImages/BlackTheme/black-back.jpg
+lSLF07#2@37"Copy Images/BlackTheme/black-back.jpg303403535#303403535#0(0"0(0#0#98"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-back.jpg2541215680#569"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-back.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/black-face.jpg Images/BlackTheme/black-face.jpg
+s303403535.106150
+e303403535.352368
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/black-face.jpg
+xImages/BlackTheme/black-face.jpg
+lSLF07#2@37"Copy Images/BlackTheme/black-face.jpg303403535#303403535#0(0"0(0#0#98"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-face.jpg2541215680#569"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-face.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/black-round-button.png Images/BlackTheme/black-round-button.png
+s303403535.106951
+e303403535.289645
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/black-round-button.png
+xImages/BlackTheme/black-round-button.png
+lSLF07#2@45"Copy Images/BlackTheme/black-round-button.png303403535#303403535#0(0"0(0#0#106"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-round-button.png2541215680#577"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-round-button.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/black-volume-handle.png Images/BlackTheme/black-volume-handle.png
+s303403535.390683
+e303403535.412830
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/black-volume-handle.png
+xImages/BlackTheme/black-volume-handle.png
+lSLF07#2@46"Copy Images/BlackTheme/black-volume-handle.png303403535#303403535#0(0"0(0#0#107"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-volume-handle.png2541215680#578"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-volume-handle.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/blue-back.jpg Images/BlueTheme/blue-back.jpg
+s303403535.376833
+e303403535.459760
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/blue-back.jpg
+xImages/BlueTheme/blue-back.jpg
+lSLF07#2@35"Copy Images/BlueTheme/blue-back.jpg303403535#303403535#0(0"0(0#0#96"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-back.jpg2541215680#567"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-back.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/blue-face.jpg Images/BlueTheme/blue-face.jpg
+s303403535.101550
+e303403535.352044
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/blue-face.jpg
+xImages/BlueTheme/blue-face.jpg
+lSLF07#2@35"Copy Images/BlueTheme/blue-face.jpg303403535#303403535#0(0"0(0#0#96"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-face.jpg2541215680#567"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-face.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/blue-round-button.png Images/BlueTheme/blue-round-button.png
+s303403535.102679
+e303403535.286986
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/blue-round-button.png
+xImages/BlueTheme/blue-round-button.png
+lSLF07#2@43"Copy Images/BlueTheme/blue-round-button.png303403535#303403535#0(0"0(0#0#104"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-round-button.png2541215680#575"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-round-button.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/blue-volume-handle.png Images/BlueTheme/blue-volume-handle.png
+s303403535.397921
+e303403535.418292
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/blue-volume-handle.png
+xImages/BlueTheme/blue-volume-handle.png
+lSLF07#2@44"Copy Images/BlueTheme/blue-volume-handle.png303403535#303403535#0(0"0(0#0#105"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-volume-handle.png2541215680#576"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-volume-handle.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/brown-back.jpg Images/BrownTheme-2/brown-back.jpg
+s303403537.315008
+e303403537.376218
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/brown-back.jpg
+xImages/BrownTheme-2/brown-back.jpg
+lSLF07#2@39"Copy Images/BrownTheme-2/brown-back.jpg303403537#303403537#0(0"0(0#0#100"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BrownTheme-2/brown-back.jpg2541215680#571"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BrownTheme-2/brown-back.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/brown-face.jpg Images/BrownTheme-2/brown-face.jpg
+s303403537.317222
+e303403537.397469
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/brown-face.jpg
+xImages/BrownTheme-2/brown-face.jpg
+lSLF07#2@39"Copy Images/BrownTheme-2/brown-face.jpg303403537#303403537#0(0"0(0#0#100"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BrownTheme-2/brown-face.jpg2541215680#571"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BrownTheme-2/brown-face.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/brown-round-button.png Images/BrownTheme-2/brown-round-button.png
+s303403537.374314
+e303403537.436417
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/brown-round-button.png
+xImages/BrownTheme-2/brown-round-button.png
+lSLF07#2@47"Copy Images/BrownTheme-2/brown-round-button.png303403537#303403537#0(0"0(0#0#108"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BrownTheme-2/brown-round-button.png2541215680#579"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BrownTheme-2/brown-round-button.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/fm3-logo-2.png Images/Common/fm3-logo-2.png
+s303403537.616452
+e303403537.647083
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/fm3-logo-2.png
+xImages/Common/fm3-logo-2.png
+lSLF07#2@33"Copy Images/Common/fm3-logo-2.png303403537#303403537#0(0"0(0#0#94"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/fm3-logo-2.png2541215680#565"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/fm3-logo-2.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/fm3-logo.png Images/Common/fm3-logo.png
+s303403535.355529
+e303403535.373664
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/fm3-logo.png
+xImages/Common/fm3-logo.png
+lSLF07#2@31"Copy Images/Common/fm3-logo.png303403535#303403535#0(0"0(0#0#92"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/fm3-logo.png2541215680#563"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/fm3-logo.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/green-back.jpg Images/GreenTheme/green-back.jpg
+s303403535.333608
+e303403535.376715
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/green-back.jpg
+xImages/GreenTheme/green-back.jpg
+lSLF07#2@37"Copy Images/GreenTheme/green-back.jpg303403535#303403535#0(0"0(0#0#98"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-back.jpg2541215680#569"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-back.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/green-face.jpg Images/GreenTheme/green-face.jpg
+s303403535.294091
+e303403535.459612
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/green-face.jpg
+xImages/GreenTheme/green-face.jpg
+lSLF07#2@37"Copy Images/GreenTheme/green-face.jpg303403535#303403535#0(0"0(0#0#98"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-face.jpg2541215680#569"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-face.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/green-round-button.png Images/GreenTheme/green-round-button.png
+s303403535.292016
+e303403535.335100
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/green-round-button.png
+xImages/GreenTheme/green-round-button.png
+lSLF07#2@45"Copy Images/GreenTheme/green-round-button.png303403535#303403535#0(0"0(0#0#106"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-round-button.png2541215680#577"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-round-button.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/green-volume-handle.png Images/GreenTheme/green-volume-handle.png
+s303403535.400195
+e303403535.417814
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/green-volume-handle.png
+xImages/GreenTheme/green-volume-handle.png
+lSLF07#2@46"Copy Images/GreenTheme/green-volume-handle.png303403535#303403535#0(0"0(0#0#107"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-volume-handle.png2541215680#578"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-volume-handle.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/grey-back.jpg Images/GreyTheme-2/grey-back.jpg
+s303403537.538408
+e303403537.648726
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/grey-back.jpg
+xImages/GreyTheme-2/grey-back.jpg
+lSLF07#2@37"Copy Images/GreyTheme-2/grey-back.jpg303403537#303403537#0(0"0(0#0#98"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreyTheme-2/grey-back.jpg2541215680#569"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreyTheme-2/grey-back.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/grey-face.jpg Images/GreyTheme-2/grey-face.jpg
+s303403537.540211
+e303403537.673985
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/grey-face.jpg
+xImages/GreyTheme-2/grey-face.jpg
+lSLF07#2@37"Copy Images/GreyTheme-2/grey-face.jpg303403537#303403537#0(0"0(0#0#98"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreyTheme-2/grey-face.jpg2541215680#569"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreyTheme-2/grey-face.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/grey-round-button.png Images/GreyTheme-2/grey-round-button.png
+s303403537.549713
+e303403537.644275
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/grey-round-button.png
+xImages/GreyTheme-2/grey-round-button.png
+lSLF07#2@45"Copy Images/GreyTheme-2/grey-round-button.png303403537#303403537#0(0"0(0#0#106"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreyTheme-2/grey-round-button.png2541215680#577"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreyTheme-2/grey-round-button.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/icon.png Images/Common/icon.png
+s303403535.103712
+e303403535.289283
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/icon.png
+xImages/Common/icon.png
+lSLF07#2@27"Copy Images/Common/icon.png303403535#303403535#0(0"0(0#0#88"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/icon.png2541215680#559"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/icon.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/lime-back.jpg Images/LimeTheme-2/lime-back.jpg
+s303403536.886089
+e303403537.028901
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/lime-back.jpg
+xImages/LimeTheme-2/lime-back.jpg
+lSLF07#2@37"Copy Images/LimeTheme-2/lime-back.jpg303403536#303403537#0(0"0(0#0#98"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/LimeTheme-2/lime-back.jpg2541215680#569"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/LimeTheme-2/lime-back.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/lime-face.jpg Images/LimeTheme-2/lime-face.jpg
+s303403537.029038
+e303403537.374173
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/lime-face.jpg
+xImages/LimeTheme-2/lime-face.jpg
+lSLF07#2@37"Copy Images/LimeTheme-2/lime-face.jpg303403537#303403537#0(0"0(0#0#98"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/LimeTheme-2/lime-face.jpg2541215680#569"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/LimeTheme-2/lime-face.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/lime-round-button.png Images/LimeTheme-2/lime-round-button.png
+s303403537.244644
+e303403537.314836
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/lime-round-button.png
+xImages/LimeTheme-2/lime-round-button.png
+lSLF07#2@45"Copy Images/LimeTheme-2/lime-round-button.png303403537#303403537#0(0"0(0#0#106"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/LimeTheme-2/lime-round-button.png2541215680#577"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/LimeTheme-2/lime-round-button.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/orange-back.jpg Images/OrangeTheme/orange-back.jpg
+s303403535.335201
+e303403535.418142
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/orange-back.jpg
+xImages/OrangeTheme/orange-back.jpg
+lSLF07#2@39"Copy Images/OrangeTheme/orange-back.jpg303403535#303403535#0(0"0(0#0#100"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-back.jpg2541215680#571"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-back.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/orange-face.jpg Images/OrangeTheme/orange-face.jpg
+s303403535.108276
+e303403535.350511
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/orange-face.jpg
+xImages/OrangeTheme/orange-face.jpg
+lSLF07#2@39"Copy Images/OrangeTheme/orange-face.jpg303403535#303403535#0(0"0(0#0#100"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-face.jpg2541215680#571"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-face.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/orange-round-button.png Images/OrangeTheme/orange-round-button.png
+s303403535.110531
+e303403535.284949
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/orange-round-button.png
+xImages/OrangeTheme/orange-round-button.png
+lSLF07#2@47"Copy Images/OrangeTheme/orange-round-button.png303403535#303403535#0(0"0(0#0#108"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-round-button.png2541215680#579"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-round-button.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/orange-volume-handle.png Images/OrangeTheme/orange-volume-handle.png
+s303403535.401296
+e303403535.417986
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/orange-volume-handle.png
+xImages/OrangeTheme/orange-volume-handle.png
+lSLF07#2@48"Copy Images/OrangeTheme/orange-volume-handle.png303403535#303403535#0(0"0(0#0#109"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-volume-handle.png2541215680#580"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-volume-handle.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/pink-back.jpg Images/PinkTheme/pink-back.jpg
+s303403535.350686
+e303403535.397798
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/pink-back.jpg
+xImages/PinkTheme/pink-back.jpg
+lSLF07#2@35"Copy Images/PinkTheme/pink-back.jpg303403535#303403535#0(0"0(0#0#96"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-back.jpg2541215680#567"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-back.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/pink-face.jpg Images/PinkTheme/pink-face.jpg
+s303403535.104551
+e303403535.352206
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/pink-face.jpg
+xImages/PinkTheme/pink-face.jpg
+lSLF07#2@35"Copy Images/PinkTheme/pink-face.jpg303403535#303403535#0(0"0(0#0#96"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-face.jpg2541215680#567"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-face.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/pink-round-button.png Images/PinkTheme/pink-round-button.png
+s303403535.105360
+e303403535.289495
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/pink-round-button.png
+xImages/PinkTheme/pink-round-button.png
+lSLF07#2@43"Copy Images/PinkTheme/pink-round-button.png303403535#303403535#0(0"0(0#0#104"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-round-button.png2541215680#575"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-round-button.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/pink-volume-handle.png Images/PinkTheme/pink-volume-handle.png
+s303403535.412927
+e303403535.478169
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/pink-volume-handle.png
+xImages/PinkTheme/pink-volume-handle.png
+lSLF07#2@44"Copy Images/PinkTheme/pink-volume-handle.png303403535#303403535#0(0"0(0#0#105"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-volume-handle.png2541215680#576"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-volume-handle.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/purple-back.jpg Images/PurpleTheme-2/purple-back.jpg
+s303403537.430444
+e303403537.538104
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/purple-back.jpg
+xImages/PurpleTheme-2/purple-back.jpg
+lSLF07#2@41"Copy Images/PurpleTheme-2/purple-back.jpg303403537#303403537#0(0"0(0#0#102"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PurpleTheme-2/purple-back.jpg2541215680#573"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PurpleTheme-2/purple-back.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/purple-face.jpg Images/PurpleTheme-2/purple-face.jpg
+s303403537.436565
+e303403537.646799
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/purple-face.jpg
+xImages/PurpleTheme-2/purple-face.jpg
+lSLF07#2@41"Copy Images/PurpleTheme-2/purple-face.jpg303403537#303403537#0(0"0(0#0#102"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PurpleTheme-2/purple-face.jpg2541215680#573"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PurpleTheme-2/purple-face.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/purple-round-button.png Images/PurpleTheme-2/purple-round-button.png
+s303403537.505744
+e303403537.540084
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/purple-round-button.png
+xImages/PurpleTheme-2/purple-round-button.png
+lSLF07#2@49"Copy Images/PurpleTheme-2/purple-round-button.png303403537#303403537#0(0"0(0#0#110"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PurpleTheme-2/purple-round-button.png2541215680#581"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PurpleTheme-2/purple-round-button.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/red-back.jpg Images/RedTheme/red-back.jpg
+s303403535.352456
+e303403535.459414
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/red-back.jpg
+xImages/RedTheme/red-back.jpg
+lSLF07#2@33"Copy Images/RedTheme/red-back.jpg303403535#303403535#0(0"0(0#0#94"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-back.jpg2541215680#565"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-back.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/red-face.jpg Images/RedTheme/red-face.jpg
+s303403535.112759
+e303403535.459914
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/red-face.jpg
+xImages/RedTheme/red-face.jpg
+lSLF07#2@33"Copy Images/RedTheme/red-face.jpg303403535#303403535#0(0"0(0#0#94"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-face.jpg2541215680#565"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-face.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/red-round-button.png Images/RedTheme/red-round-button.png
+s303403535.285095
+e303403535.331661
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/red-round-button.png
+xImages/RedTheme/red-round-button.png
+lSLF07#2@41"Copy Images/RedTheme/red-round-button.png303403535#303403535#0(0"0(0#0#102"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-round-button.png2541215680#573"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-round-button.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/red-volume-handle.png Images/RedTheme/red-volume-handle.png
+s303403535.415105
+e303403535.485736
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/red-volume-handle.png
+xImages/RedTheme/red-volume-handle.png
+lSLF07#2@42"Copy Images/RedTheme/red-volume-handle.png303403535#303403535#0(0"0(0#0#103"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-volume-handle.png2541215680#574"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-volume-handle.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/slider-bg.png Images/Common/slider-bg.png
+s303403535.378582
+e303403535.389413
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/slider-bg.png
+xImages/Common/slider-bg.png
+lSLF07#2@32"Copy Images/Common/slider-bg.png303403535#303403535#0(0"0(0#0#93"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/slider-bg.png2541215680#564"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/slider-bg.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/slider-thumb.png Images/Common/slider-thumb.png
+s303403535.389686
+e303403535.412608
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/slider-thumb.png
+xImages/Common/slider-thumb.png
+lSLF07#2@35"Copy Images/Common/slider-thumb.png303403535#303403535#0(0"0(0#0#96"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/slider-thumb.png2541215680#567"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/slider-thumb.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/teal-back.jpg Images/TealTheme-2/teal-back.jpg
+s303403537.376353
+e303403537.505600
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/teal-back.jpg
+xImages/TealTheme-2/teal-back.jpg
+lSLF07#2@37"Copy Images/TealTheme-2/teal-back.jpg303403537#303403537#0(0"0(0#0#98"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/TealTheme-2/teal-back.jpg2541215680#569"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/TealTheme-2/teal-back.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/teal-face.jpg Images/TealTheme-2/teal-face.jpg
+s303403537.395159
+e303403537.616322
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/teal-face.jpg
+xImages/TealTheme-2/teal-face.jpg
+lSLF07#2@37"Copy Images/TealTheme-2/teal-face.jpg303403537#303403537#0(0"0(0#0#98"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/TealTheme-2/teal-face.jpg2541215680#569"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/TealTheme-2/teal-face.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/teal-round-button.png Images/TealTheme-2/teal-round-button.png
+s303403537.397573
+e303403537.430294
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/teal-round-button.png
+xImages/TealTheme-2/teal-round-button.png
+lSLF07#2@45"Copy Images/TealTheme-2/teal-round-button.png303403537#303403537#0(0"0(0#0#106"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/TealTheme-2/teal-round-button.png2541215680#577"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/TealTheme-2/teal-round-button.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi01.caf Sounds/v1_hi01.caf
+s303403535.420884
+e303403535.835136
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v1_hi01.caf
+xSounds/v1_hi01.caf
+lSLF07#2@23"Copy Sounds/v1_hi01.caf303403535#303403535#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi01.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi01.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi02.caf Sounds/v1_hi02.caf
+s303403535.424752
+e303403535.838303
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v1_hi02.caf
+xSounds/v1_hi02.caf
+lSLF07#2@23"Copy Sounds/v1_hi02.caf303403535#303403535#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi02.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi02.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi03.caf Sounds/v1_hi03.caf
+s303403535.468004
+e303403536.308310
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v1_hi03.caf
+xSounds/v1_hi03.caf
+lSLF07#2@23"Copy Sounds/v1_hi03.caf303403535#303403536#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi03.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi03.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi04.caf Sounds/v1_hi04.caf
+s303403535.472874
+e303403535.927826
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v1_hi04.caf
+xSounds/v1_hi04.caf
+lSLF07#2@23"Copy Sounds/v1_hi04.caf303403535#303403535#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi04.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi04.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi05.caf Sounds/v1_hi05.caf
+s303403535.481270
+e303403536.636782
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v1_hi05.caf
+xSounds/v1_hi05.caf
+lSLF07#2@23"Copy Sounds/v1_hi05.caf303403535#303403536#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi05.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi05.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi06.caf Sounds/v1_hi06.caf
+s303403535.485868
+e303403536.098887
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v1_hi06.caf
+xSounds/v1_hi06.caf
+lSLF07#2@23"Copy Sounds/v1_hi06.caf303403535#303403536#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi06.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi06.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi07.caf Sounds/v1_hi07.caf
+s303403535.835289
+e303403537.317084
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v1_hi07.caf
+xSounds/v1_hi07.caf
+lSLF07#2@23"Copy Sounds/v1_hi07.caf303403535#303403537#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi07.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi07.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi08.caf Sounds/v1_hi08.caf
+s303403535.836748
+e303403537.733194
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v1_hi08.caf
+xSounds/v1_hi08.caf
+lSLF07#2@23"Copy Sounds/v1_hi08.caf303403535#303403537#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi08.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi08.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v1_hi09.caf Sounds/v1_hi09.caf
+s303403535.838442
+e303403537.244520
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v1_hi09.caf
+xSounds/v1_hi09.caf
+lSLF07#2@23"Copy Sounds/v1_hi09.caf303403535#303403537#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi09.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi09.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi01.caf Sounds/v2_hi01.caf
+s303403535.475348
+e303403538.024422
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v2_hi01.caf
+xSounds/v2_hi01.caf
+lSLF07#2@23"Copy Sounds/v2_hi01.caf303403535#303403538#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi01.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi01.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi02.caf Sounds/v2_hi02.caf
+s303403535.478261
+e303403535.834847
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v2_hi02.caf
+xSounds/v2_hi02.caf
+lSLF07#2@23"Copy Sounds/v2_hi02.caf303403535#303403535#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi02.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi02.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi03.caf Sounds/v2_hi03.caf
+s303403535.427147
+e303403537.395041
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v2_hi03.caf
+xSounds/v2_hi03.caf
+lSLF07#2@23"Copy Sounds/v2_hi03.caf303403535#303403537#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi03.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi03.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi04.caf Sounds/v2_hi04.caf
+s303403535.460018
+e303403536.885867
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v2_hi04.caf
+xSounds/v2_hi04.caf
+lSLF07#2@23"Copy Sounds/v2_hi04.caf303403535#303403536#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi04.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi04.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi05.caf Sounds/v2_hi05.caf
+s303403535.927950
+e303403536.634691
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v2_hi05.caf
+xSounds/v2_hi05.caf
+lSLF07#2@23"Copy Sounds/v2_hi05.caf303403535#303403536#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi05.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi05.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi06.caf Sounds/v2_hi06.caf
+s303403536.099016
+e303403537.549572
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v2_hi06.caf
+xSounds/v2_hi06.caf
+lSLF07#2@23"Copy Sounds/v2_hi06.caf303403536#303403537#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi06.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi06.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi07.caf Sounds/v2_hi07.caf
+s303403536.308456
+e303403538.025309
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v2_hi07.caf
+xSounds/v2_hi07.caf
+lSLF07#2@23"Copy Sounds/v2_hi07.caf303403536#303403538#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi07.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi07.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi08.caf Sounds/v2_hi08.caf
+s303403536.634958
+e303403537.863169
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v2_hi08.caf
+xSounds/v2_hi08.caf
+lSLF07#2@23"Copy Sounds/v2_hi08.caf303403536#303403537#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi08.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi08.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/v2_hi09.caf Sounds/v2_hi09.caf
+s303403536.636917
+e303403537.830305
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/v2_hi09.caf
+xSounds/v2_hi09.caf
+lSLF07#2@23"Copy Sounds/v2_hi09.caf303403536#303403537#0(0"0(0#0#84"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi09.caf2541215680#555"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi09.caf" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/white-back.jpg Images/WhiteTheme/white-back.jpg
+s303403535.353471
+e303403535.400101
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/white-back.jpg
+xImages/WhiteTheme/white-back.jpg
+lSLF07#2@37"Copy Images/WhiteTheme/white-back.jpg303403535#303403535#0(0"0(0#0#98"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-back.jpg2541215680#569"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-back.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/white-face.jpg Images/WhiteTheme/white-face.jpg
+s303403535.287104
+e303403535.399938
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/white-face.jpg
+xImages/WhiteTheme/white-face.jpg
+lSLF07#2@37"Copy Images/WhiteTheme/white-face.jpg303403535#303403535#0(0"0(0#0#98"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-face.jpg2541215680#569"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-face.jpg" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/white-round-button.png Images/WhiteTheme/white-round-button.png
+s303403535.289744
+e303403535.331382
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/white-round-button.png
+xImages/WhiteTheme/white-round-button.png
+lSLF07#2@45"Copy Images/WhiteTheme/white-round-button.png303403535#303403535#0(0"0(0#0#106"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-round-button.png2541215680#577"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-round-button.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CCpResource build/Debug-iphonesimulator/BuddhaMachine.app/white-volume-handle.png Images/WhiteTheme/white-volume-handle.png
+s303403535.418388
+e303403535.477995
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BuddhaMachine.app/white-volume-handle.png
+xImages/WhiteTheme/white-volume-handle.png
+lSLF07#2@46"Copy Images/WhiteTheme/white-volume-handle.png303403535#303403535#0(0"0(0#0#107"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-volume-handle.png2541215680#578"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-volume-handle.png" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CGenerateDSYMFile "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app.dSYM" "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine"
+s303403542.108046
+e303403542.235200
+r1
+xGenerateDSYMFile
+x/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app.dSYM
+x/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/BuddhaMachine.app.dSYM build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine303403542#303403542#0(0"0(0#0#125"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine2541215680#488"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine" -o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app.dSYM"0#
+
+CGenerateDSYMFile /Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app.dSYM /Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine
+s298306322.661359
+e298306322.676157
+r1
+xGenerateDSYMFile
+x/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app.dSYM
+x/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/BuddhaMachine.app.dSYM build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine298306322#298306322#0(0"0(0#0#94"/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine4300911832#389"    cd /Users/jb/Desktop/BuddhaMachine/bm    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine -o /Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app.dSYM0#
+
+CLd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine" normal i386
+s303403542.031091
+e303403542.107909
+r1
+xLd
+x/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine
+xnormal
+xi386
+lSLF07#2@130"Link /Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine303403542#303403542#0(0"0(0#0#0"2541215680#1144"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator" "-F/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator" -filelist "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachine.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework QuartzCore -framework CoreGraphics -framework AudioToolbox -framework MediaPlayer -o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine"0#
+
+CLd /Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine normal i386
+s298306322.643738
+e298306322.661274
+r1
+xLd
+x/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine
+xnormal
+xi386
+lSLF07#2@99"Link /Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine298306322#298306322#0(0"0(0#0#0"4300911832#941"    cd /Users/jb/Desktop/BuddhaMachine/bm    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator -F/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator -filelist /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/Objects-normal/i386/BuddhaMachine.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework QuartzCore -framework CoreGraphics -framework AudioToolbox -framework MediaPlayer -o /Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/BuddhaMachine0#
+
+CProcessInfoPlistFile "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/Info.plist" Info.plist
+s303403535.056185
+e303403535.101428
+r1
+xProcessInfoPlistFile
+x/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist303403535#303403535#0(0"0(0#0#76"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Info.plist2541215680#570"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app/Info.plist"0#
+
+CProcessInfoPlistFile /Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app/Info.plist Info.plist
+r0
+
+CProcessPCH /var/folders/hI/hIyEKCUCE00DbayE7Mlr3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-eztoysxkkmptyzaqhoxljljftdyy/BuddhaMachine_Prefix.pch.gch BuddhaMachine_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298306322.101677
+e298306322.525579
+r1
+xProcessPCH
+x/var/folders/hI/hIyEKCUCE00DbayE7Mlr3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-eztoysxkkmptyzaqhoxljljftdyy/BuddhaMachine_Prefix.pch.gch
+xBuddhaMachine_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile BuddhaMachine_Prefix.pch298306322#298306322#0(0"0(0#0#59"/Users/jb/Desktop/BuddhaMachine/bm/BuddhaMachine_Prefix.pch4300911832#1823"    cd /Users/jb/Desktop/BuddhaMachine/bm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap -iquote /Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap -F/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator -I/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/include -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386 -I/Users/jb/Desktop/BuddhaMachine/bm/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources -c /Users/jb/Desktop/BuddhaMachine/bm/BuddhaMachine_Prefix.pch -o /var/folders/hI/hIyEKCUCE00DbayE7Mlr3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-eztoysxkkmptyzaqhoxljljftdyy/BuddhaMachine_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-gdssobmpwtvlhcdouhaigtmtdqwm/BuddhaMachine_Prefix.pch.gch BuddhaMachine_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303403538.025446
+e303403541.353891
+r1
+xProcessPCH
+x/var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-gdssobmpwtvlhcdouhaigtmtdqwm/BuddhaMachine_Prefix.pch.gch
+xBuddhaMachine_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile BuddhaMachine_Prefix.pch303403538#303403541#0(0"0(0#0#90"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/BuddhaMachine_Prefix.pch2541215680#2197"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap" -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap" "-F/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/include" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources" -c "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/BuddhaMachine_Prefix.pch" -o /var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-gdssobmpwtvlhcdouhaigtmtdqwm/BuddhaMachine_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-hhzwqzvrwgudfyejpvbdosimdkdr/BuddhaMachine_Prefix.pch.gch BuddhaMachine_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303255492.403485
+e303255494.162459
+r1
+xProcessPCH
+x/var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-hhzwqzvrwgudfyejpvbdosimdkdr/BuddhaMachine_Prefix.pch.gch
+xBuddhaMachine_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile BuddhaMachine_Prefix.pch303255492#303255494#0(0"0(0#0#90"/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/BuddhaMachine_Prefix.pch4231192#2197"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-generated-files.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-own-target-headers.hmap" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-all-target-headers.hmap" -iquote "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/BuddhaMachine-project-headers.hmap" "-F/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/include" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources/i386" "-I/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/BuddhaMachine.build/Debug-iphonesimulator/BuddhaMachine.build/DerivedSources" -c "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/BuddhaMachine_Prefix.pch" -o /var/folders/r3/r3qvPEicE-uRV1Zi6aFd7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuddhaMachine_Prefix-hhzwqzvrwgudfyejpvbdosimdkdr/BuddhaMachine_Prefix.pch.gch0#
+
+CTouch "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"
+s303403542.235346
+e303403542.246150
+r1
+xTouch
+x/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app
+lSLF07#2@117"Touch /Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app303403542#303403542#0(0"0(0#0#0"2541215680#342"    cd "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug-iphonesimulator/BuddhaMachine.app"0#
+
+CTouch /Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app
+s298306322.676220
+e298306322.678265
+r1
+xTouch
+x/Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app
+lSLF07#2@86"Touch /Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app298306322#298306322#0(0"0(0#0#0"4300911832#276"    cd /Users/jb/Desktop/BuddhaMachine/bm    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jb/Desktop/BuddhaMachine/bm/build/Debug-iphonesimulator/BuddhaMachine.app0#
+

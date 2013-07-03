@@ -1,0 +1,831 @@
+TBuddhaMachine
+v7
+r1
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-back.jpg
+c0000000049E89D38000000000000B561
+t1239981368
+s46433
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-face.jpg
+c0000000049E89D38000000000001353A
+t1239981368
+s79162
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-round-button.png
+c0000000049E89D380000000000001551
+t1239981368
+s5457
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlackTheme/black-volume-handle.png
+c0000000049E89D380000000000000D2D
+t1239981368
+s3373
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-back.jpg
+c0000000049E89D5D000000000000E24B
+t1239981405
+s57931
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-face.jpg
+c0000000049E89D5D000000000001CCD2
+t1239981405
+s117970
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-round-button.png
+c0000000049E89D5D0000000000001647
+t1239981405
+s5703
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BlueTheme/blue-volume-handle.png
+c0000000049E89D5D0000000000000D58
+t1239981405
+s3416
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BrownTheme-2/brown-back.jpg
+c0000000049FDA1370000000000009348
+t1241358647
+s37704
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BrownTheme-2/brown-face.jpg
+c0000000049FDA0C00000000000011846
+t1241358528
+s71750
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/BrownTheme-2/brown-round-button.png
+c0000000049FDA0D500000000000016B9
+t1241358549
+s5817
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/Default.png
+c0000000049E89D4F0000000000000EED
+t1239981391
+s3821
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/fm3-logo-2.png
+c0000000049FDA3890000000000000827
+t1241359241
+s2087
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/fm3-logo.png
+c0000000049E89D4F0000000000000E84
+t1239981391
+s3716
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/icon.png
+c0000000049E89D4F00000000000018B6
+t1239981391
+s6326
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/slider-bg.png
+c0000000049E89D4F0000000000000B23
+t1239981391
+s2851
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/Common/slider-thumb.png
+c0000000049E89D4F0000000000000C26
+t1239981391
+s3110
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-back.jpg
+c0000000049E89D3F000000000000F082
+t1239981375
+s61570
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-face.jpg
+c0000000049E89D3F0000000000020DFB
+t1239981375
+s134651
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-round-button.png
+c0000000049E89D3F0000000000001631
+t1239981375
+s5681
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreenTheme/green-volume-handle.png
+c0000000049E89D3F0000000000000D58
+t1239981375
+s3416
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreyTheme-2/grey-back.jpg
+c0000000049ED0D00000000000000876B
+t1240272128
+s34667
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreyTheme-2/grey-face.jpg
+c0000000049ED0E7C0000000000010507
+t1240272508
+s66823
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/GreyTheme-2/grey-round-button.png
+c0000000049ED0E64000000000000171C
+t1240272484
+s5916
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/LimeTheme-2/lime-back.jpg
+c0000000049ED0CCF000000000000AB5C
+t1240272079
+s43868
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/LimeTheme-2/lime-face.jpg
+c0000000049ED0E150000000000018802
+t1240272405
+s100354
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/LimeTheme-2/lime-round-button.png
+c0000000049ED0DF50000000000001773
+t1240272373
+s6003
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-back.jpg
+c0000000049E89D740000000000016961
+t1239981428
+s92513
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-face.jpg
+c0000000049E89D740000000000025822
+t1239981428
+s153634
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-round-button.png
+c0000000049E89D740000000000001677
+t1239981428
+s5751
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/OrangeTheme/orange-volume-handle.png
+c0000000049E89D740000000000000D67
+t1239981428
+s3431
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-back.jpg
+c0000000049E89D4F000000000000DB61
+t1239981391
+s56161
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-face.jpg
+c0000000049E89D4F000000000001BB93
+t1239981391
+s113555
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-round-button.png
+c0000000049E89D4F000000000000164E
+t1239981391
+s5710
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PinkTheme/pink-volume-handle.png
+c0000000049E89D4F0000000000000D63
+t1239981391
+s3427
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PurpleTheme-2/purple-back.jpg
+c0000000049FD9FC400000000000089E2
+t1241358276
+s35298
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PurpleTheme-2/purple-face.jpg
+c0000000049FD9EB30000000000010256
+t1241358003
+s66134
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/PurpleTheme-2/purple-round-button.png
+c0000000049FD9EDC00000000000016C7
+t1241358044
+s5831
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-back.jpg
+c0000000049E89D6900000000000160DB
+t1239981417
+s90331
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-face.jpg
+c0000000049E89D690000000000024C23
+t1239981417
+s150563
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-round-button.png
+c0000000049E89D69000000000000163E
+t1239981417
+s5694
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/RedTheme/red-volume-handle.png
+c0000000049E89D690000000000000D65
+t1239981417
+s3429
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/TealTheme-2/teal-back.jpg
+c0000000049ED0CB1000000000000A80C
+t1240272049
+s43020
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/TealTheme-2/teal-face.jpg
+c0000000049ED0D9C000000000001493C
+t1240272284
+s84284
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/TealTheme-2/teal-round-button.png
+c0000000049ED0D66000000000000174C
+t1240272230
+s5964
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-back.jpg
+c0000000049E89D44000000000000A709
+t1239981380
+s42761
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-face.jpg
+c0000000049E89D440000000000016B0C
+t1239981380
+s92940
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-round-button.png
+c0000000049E89D440000000000001580
+t1239981380
+s5504
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Images/WhiteTheme/white-volume-handle.png
+c0000000049E89D440000000000000CF8
+t1239981380
+s3320
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi01.caf
+c0000000049FA1E5D000000000004C5A7
+t1241128541
+s312743
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi02.caf
+c0000000049FA1E5D00000000000844EA
+t1241128541
+s541930
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi03.caf
+c0000000049FA1E5D0000000000045F18
+t1241128541
+s286488
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi04.caf
+c0000000049FA1E5D0000000000015E17
+t1241128541
+s89623
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi05.caf
+c0000000049FA1E5D000000000007E53A
+t1241128541
+s517434
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi06.caf
+c0000000049FA1E5D0000000000029865
+t1241128541
+s170085
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi07.caf
+c0000000049FA1E5D000000000007AD70
+t1241128541
+s503152
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi08.caf
+c000000004A23BDAE00000000000A2EC0
+t1243856302
+s667328
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v1_hi09.caf
+c0000000049FA1E5D000000000007BDB9
+t1241128541
+s507321
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi01.caf
+c0000000049FA1E5D000000000017B782
+t1241128541
+s1554306
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi02.caf
+c0000000049FA1E5D0000000000036048
+t1241128541
+s221256
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi03.caf
+c0000000049FA1E5D00000000000A16DC
+t1241128541
+s661212
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi04.caf
+c0000000049FA1E5D000000000007BC3E
+t1241128541
+s506942
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi05.caf
+c0000000049FA1E5D000000000007D2B1
+t1241128541
+s512689
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi06.caf
+c0000000049FA1E5D000000000007D2C2
+t1241128541
+s512706
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi07.caf
+c000000004A23BDAE000000000013A579
+t1243856302
+s1287545
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi08.caf
+c000000004A23BDAF0000000000152510
+t1243856303
+s1385744
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/Sounds/v2_hi09.caf
+c0000000049FA1E5D000000000007BDC6
+t1241128541
+s507334
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Info.plist
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/black-back.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/black-face.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/black-round-button.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/black-volume-handle.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/blue-back.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/blue-face.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/blue-round-button.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/blue-volume-handle.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/brown-back.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/brown-face.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/brown-round-button.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/fm3-logo-2.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/fm3-logo.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/green-back.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/green-face.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/green-round-button.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/green-volume-handle.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/grey-back.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/grey-face.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/grey-round-button.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/lime-back.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/lime-face.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/lime-round-button.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/orange-back.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/orange-face.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/orange-round-button.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/orange-volume-handle.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/pink-back.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/pink-face.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/pink-round-button.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/pink-volume-handle.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/purple-back.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/purple-face.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/purple-round-button.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/red-back.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/red-face.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/red-round-button.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/red-volume-handle.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/slider-bg.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/slider-thumb.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/teal-back.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/teal-face.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/teal-round-button.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi01.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi02.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi03.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi04.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi05.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi06.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi07.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi08.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi09.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi01.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi02.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi03.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi04.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi05.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi06.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi07.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi08.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi09.caf
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/white-back.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/white-face.jpg
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/white-round-button.png
+t2
+s0
+
+N/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Resources/white-volume-handle.png
+t2
+s0
+
+NInfo.plist
+c000000004A2997020000000000000385
+t1244239618
+s901
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/Default.png Images/Common/Default.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/black-back.jpg Images/BlackTheme/black-back.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/black-face.jpg Images/BlackTheme/black-face.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/black-round-button.png Images/BlackTheme/black-round-button.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/black-volume-handle.png Images/BlackTheme/black-volume-handle.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/blue-back.jpg Images/BlueTheme/blue-back.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/blue-face.jpg Images/BlueTheme/blue-face.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/blue-round-button.png Images/BlueTheme/blue-round-button.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/blue-volume-handle.png Images/BlueTheme/blue-volume-handle.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/brown-back.jpg Images/BrownTheme-2/brown-back.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/brown-face.jpg Images/BrownTheme-2/brown-face.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/brown-round-button.png Images/BrownTheme-2/brown-round-button.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/fm3-logo-2.png Images/Common/fm3-logo-2.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/fm3-logo.png Images/Common/fm3-logo.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/green-back.jpg Images/GreenTheme/green-back.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/green-face.jpg Images/GreenTheme/green-face.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/green-round-button.png Images/GreenTheme/green-round-button.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/green-volume-handle.png Images/GreenTheme/green-volume-handle.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/grey-back.jpg Images/GreyTheme-2/grey-back.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/grey-face.jpg Images/GreyTheme-2/grey-face.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/grey-round-button.png Images/GreyTheme-2/grey-round-button.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/icon.png Images/Common/icon.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/lime-back.jpg Images/LimeTheme-2/lime-back.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/lime-face.jpg Images/LimeTheme-2/lime-face.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/lime-round-button.png Images/LimeTheme-2/lime-round-button.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/orange-back.jpg Images/OrangeTheme/orange-back.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/orange-face.jpg Images/OrangeTheme/orange-face.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/orange-round-button.png Images/OrangeTheme/orange-round-button.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/orange-volume-handle.png Images/OrangeTheme/orange-volume-handle.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/pink-back.jpg Images/PinkTheme/pink-back.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/pink-face.jpg Images/PinkTheme/pink-face.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/pink-round-button.png Images/PinkTheme/pink-round-button.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/pink-volume-handle.png Images/PinkTheme/pink-volume-handle.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/purple-back.jpg Images/PurpleTheme-2/purple-back.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/purple-face.jpg Images/PurpleTheme-2/purple-face.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/purple-round-button.png Images/PurpleTheme-2/purple-round-button.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/red-back.jpg Images/RedTheme/red-back.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/red-face.jpg Images/RedTheme/red-face.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/red-round-button.png Images/RedTheme/red-round-button.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/red-volume-handle.png Images/RedTheme/red-volume-handle.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/slider-bg.png Images/Common/slider-bg.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/slider-thumb.png Images/Common/slider-thumb.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/teal-back.jpg Images/TealTheme-2/teal-back.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/teal-face.jpg Images/TealTheme-2/teal-face.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/teal-round-button.png Images/TealTheme-2/teal-round-button.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi01.caf Sounds/v1_hi01.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi02.caf Sounds/v1_hi02.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi03.caf Sounds/v1_hi03.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi04.caf Sounds/v1_hi04.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi05.caf Sounds/v1_hi05.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi06.caf Sounds/v1_hi06.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi07.caf Sounds/v1_hi07.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi08.caf Sounds/v1_hi08.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v1_hi09.caf Sounds/v1_hi09.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi01.caf Sounds/v2_hi01.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi02.caf Sounds/v2_hi02.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi03.caf Sounds/v2_hi03.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi04.caf Sounds/v2_hi04.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi05.caf Sounds/v2_hi05.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi06.caf Sounds/v2_hi06.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi07.caf Sounds/v2_hi07.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi08.caf Sounds/v2_hi08.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/v2_hi09.caf Sounds/v2_hi09.caf
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/white-back.jpg Images/WhiteTheme/white-back.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/white-face.jpg Images/WhiteTheme/white-face.jpg
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/white-round-button.png Images/WhiteTheme/white-round-button.png
+r0
+
+CCpResource build/Debug/BuddhaMachine.app/Contents/Resources/white-volume-handle.png Images/WhiteTheme/white-volume-handle.png
+r0
+
+CProcessInfoPlistFile "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app/Contents/Info.plist" Info.plist
+r0
+
+CTouch "/Users/joshue/projects/_I_PROJECTS/1076_BUDD/working files/Buddha/build/Debug/BuddhaMachine.app"
+r0
+
